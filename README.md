@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Statistical Hypothesis Testing Using Non-Parametric Tests
 
 ## Overview
